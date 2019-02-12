@@ -1,5 +1,5 @@
-group-name-min-length: 3
-group-name-max-length: 12
+group-name-min-length: 1
+group-name-max-length: 100
 group-land-growth: 1
 group-land-growth-days: 7
 group-land-growth-limit: 80
